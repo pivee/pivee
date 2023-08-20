@@ -19,7 +19,7 @@ export default function RootLayout({
     <html lang="en" data-theme="cmyk">
       <body className={inter.className}>
         <TopNavigation />
-        <div className="min-h-screen bg-base-200 py-10">
+        <div className="min-h-screen bg-slate-200 py-10">
           {children}
         </div>
       </body>
