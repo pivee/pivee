@@ -1,1 +1,1 @@
-![Tech Stack](./images/tech-stack.jpg)
+![Tech Stack](./assets/tech-stack.jpg)
