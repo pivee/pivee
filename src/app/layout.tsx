@@ -1,3 +1,4 @@
+import TopNavigation from '@/components/TopNavigation';
 import './globals.css';
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
@@ -15,9 +16,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+    <html lang="en" data-theme="cmyk">
       <body className={inter.className}>
-        <div className="py-8">
+        <TopNavigation />
+        <div className="min-h-screen bg-base-200 py-10">
           {children}
         </div>
       </body>
