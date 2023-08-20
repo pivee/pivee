@@ -3,9 +3,10 @@ import React from 'react';
 const HomePage: React.FC = () => {
   return (
     <div className="min-h-screen">
-      <div className="max-w-xl mx-auto px-4 text-justify">
+      <div className="max-w-xl mx-auto px-4">
+        <h2 className="text-5xl font-bold mb-2">Hello!</h2>
         <p className="text-lg mb-6">
-          Hello and welcome to my website! I&apos;m glad you&apos;re here. On this site,
+          Welcome to my website! I&apos;m glad you&apos;re here. On this site,
           you&apos;ll find information about me and the things I do. I work as a
           software engineer and an English teacher. This means I build computer
           programs and help people improve their English language skills. I also
