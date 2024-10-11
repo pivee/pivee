@@ -114,7 +114,7 @@ vim ~/.zshrc
 - Add/Change the following parameters.
 
 ```sh
-ZSH_THEME="mortalscumbag"
+ZSH_THEME="ys"
 ```
 
 ```sh
