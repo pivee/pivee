@@ -108,7 +108,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/p
 - Open `~/.zshrc` using a text editor.
 
 ```sh
-code ~/.zshrc
+vim ~/.zshrc
 ```
 
 - Add/Change the following parameters.
