@@ -1,8 +1,8 @@
-Hi 👋 My name is Pivithuru Jayakody
+Hi 👋 I'm Pivee
 ===================================
 
-Full-stack Engineer
--------------------
+Backend Engineer + System Design Enthusiast
+-------------------------------------------
 
 * ✉️  You can contact me at [pivithurujayakody@gmail.com](mailto:pivithurujayakody@gmail.com)
 * 🚀  I'm currently working on [Engspire Community](http://engspire.lk)
