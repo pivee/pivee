@@ -19,15 +19,13 @@ Full-stack Engineer
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" width="36" height="36" alt="Spring" /></a>
-<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="36" height="36" alt="React" /></a>
-<br/>
 <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="36" height="36" alt="NextJS" /></a>
-<a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="36" height="36" alt="Vercel" /></a>
-<a href="https://pnpm.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Pnpm-Dark.svg" width="36" height="36" alt="PNPM" /></a>
-<a href="https://prisma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" width="36" height="36" alt="Prisma" /></a>
+<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="36" height="36" alt="React" /></a>
 <br/>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://prisma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" width="36" height="36" alt="Prisma" /></a>
+<br/>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://aws.amazon.com/pm/dynamodb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DynamoDB-Dark.svg" width="36" height="36" alt="DynamoDB" /></a>
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RabbitMQ-Dark.svg" width="36" height="36" alt="RabbitMQ" /></a>
@@ -36,10 +34,12 @@ Full-stack Engineer
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" width="36" height="36" alt="Google Cloud" /></a>
 <br/>
+<a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="36" height="36" alt="Vercel" /></a>
 <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" width="36" height="36" alt="Wordpress" /></a>
 <br/>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg" width="36" height="36" alt="Ubuntu" /></a>
+<a href="https://pnpm.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Pnpm-Dark.svg" width="36" height="36" alt="PNPM" /></a>
 </p>
 
 
