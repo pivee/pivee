@@ -121,7 +121,39 @@ ZSH_THEME="ys"
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 ```
 
-## 9. Install Node using NVM
+## **7. (Optional) Install Powerlevel10k Theme**
+
+Powerlevel10k is a feature-rich Zsh theme.
+
+```bash
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
+```
+
+Edit `.zshrc`:
+
+```bash
+vi ~/.zshrc
+```
+
+Change the theme:
+
+```bash
+ZSH_THEME="powerlevel10k/powerlevel10k"
+```
+
+Save and apply:
+
+```bash
+source ~/.zshrc
+```
+
+Run the configuration wizard:
+
+```bash
+p10k configure
+```
+
+## 8. Install Node using NVM
 
 ### 1. Installing NVM
 
