@@ -5,7 +5,7 @@ Backend Engineer + System Design Enthusiast
 -------------------------------------------
 
 * ✉️  You can contact me at [pivithurujayakody@gmail.com](mailto:pivithurujayakody@gmail.com)
-* 🚀  I'm currently working on [Engspire Community](http://engspire.lk)
+* 🚀  I'm currently building [Engspire Community](http://engspire.lk)
 
 ### Skills
 
